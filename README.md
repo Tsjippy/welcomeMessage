@@ -1,1 +1,3 @@
-A module for the sim-plugin to add signal messaging
+<p>
+    This module adds a welcome message in a popup for new users
+</p>
